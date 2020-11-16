@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FamousElephants</string>
+    <string name="sightings">Elephants</string>
+    <string name="my_sightings">My Elephants</string>
+    <string name="exit">Exit</string>
+    <string name="whale_spotter">FamousElephants</string>
+    <string name="about">About</string>
+    <string name="last_sightings">Famous Elephats</string>
+    <string name="search">Search...</string>
+    <string name="logo_orca">Logo orca</string>
+    <string name="add_an_elephant">Add an Elephant</string>
+    <string name="note">Note</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_image">Add Image</string>
+    <string name="year_of_birth">Year of birth</string>
+    <string name="year_of_death">Year of death</string>
+    <string name="add">ADD</string>
+    <string name="addimga">addimga</string>
+</resources>
